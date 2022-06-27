@@ -1,5 +1,8 @@
-### Hi there 👋
-
+# sobre mim
+ - ola,eu me chamo Joao vitor ribeiro
+ - atualmente estudo em CECMPS;
+ - atualmente estou aprendendo progamacao no SCREAT e JAVA ESCRIPT;
+  -facebook:vitor_KKJ
 <!--
 **coxinhaloca/coxinhaloca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
